@@ -1,0 +1,40 @@
+2025-04-03 19:23:08 - Quiz soumis: utilisateur_id=1, categorie_id=5, difficulte_id=2, score=6, total=10
+2025-04-03 19:23:09 - Quiz enregistré avec succès, quiz_id=9
+2025-04-03 19:23:09 - Quiz soumis: utilisateur_id=1, categorie_id=5, difficulte_id=2, score=6, total=10
+2025-04-03 19:23:09 - Doublon détecté et bloqué pour utilisateur_id=1
+2025-04-17 18:02:15 - Quiz soumis: utilisateur_id=1, categorie_id=1, difficulte_id=2, score=6, total=10
+2025-04-17 18:02:15 - Quiz enregistré avec succès, quiz_id=42
+2025-04-17 18:04:01 - Quiz soumis: utilisateur_id=1, categorie_id=1, difficulte_id=2, score=9, total=10
+2025-04-17 18:04:01 - Quiz enregistré avec succès, quiz_id=43
+2025-04-17 18:06:17 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=3, score=4, total=10
+2025-04-17 18:06:17 - Quiz enregistré avec succès, quiz_id=44
+2025-04-17 21:27:48 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=2, score=0, total=10
+2025-04-17 21:27:48 - Quiz enregistré avec succès, quiz_id=45
+2025-04-17 21:27:48 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=2, score=0, total=10
+2025-04-17 21:27:48 - Doublon détecté et bloqué pour utilisateur_id=1
+2025-04-17 21:27:49 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=2, score=0, total=10
+2025-04-17 21:27:49 - Doublon détecté et bloqué pour utilisateur_id=1
+2025-04-17 21:27:54 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=2, score=1, total=10
+2025-04-17 21:27:54 - Quiz enregistré avec succès, quiz_id=46
+2025-04-17 21:27:59 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=2, score=1, total=10
+2025-04-17 21:27:59 - Quiz enregistré avec succès, quiz_id=47
+2025-04-17 21:40:11 - Quiz soumis: utilisateur_id=1, categorie_id=6, difficulte_id=2, score=1, total=10
+2025-04-17 21:40:11 - Quiz enregistré avec succès, quiz_id=48
+2025-04-17 23:03:14 - Quiz soumis: utilisateur_id=1, categorie_id=6, difficulte_id=3, score=0, total=7
+2025-04-17 23:03:14 - Quiz enregistré avec succès, quiz_id=49
+2025-04-17 23:50:38 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=1, score=1, total=10
+2025-04-17 23:50:38 - Quiz enregistré avec succès, quiz_id=50
+2025-04-17 23:50:39 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=1, score=1, total=10
+2025-04-17 23:50:39 - Doublon détecté et bloqué pour utilisateur_id=1
+2025-04-18 00:13:35 - Quiz soumis: utilisateur_id=1, categorie_id=4, difficulte_id=1, score=8, total=10
+2025-04-18 00:13:35 - Quiz enregistré avec succès, quiz_id=51
+2025-04-18 13:26:57 - Quiz soumis: utilisateur_id=1, categorie_id=2, difficulte_id=2, score=1, total=10
+2025-04-18 13:26:58 - Quiz enregistré avec succès, quiz_id=52
+2025-04-18 21:27:21 - Quiz soumis: utilisateur_id=1, categorie_id=3, difficulte_id=1, score=5, total=10
+2025-04-18 21:27:21 - Quiz enregistré avec succès, quiz_id=53
+2025-04-19 02:02:02 - Quiz soumis: utilisateur_id=1, categorie_id=4, difficulte_id=1, score=8, total=10
+2025-04-19 02:02:02 - Quiz enregistré avec succès, quiz_id=54
+2025-04-21 16:05:31 - Quiz soumis: utilisateur_id=21, categorie_id=4, difficulte_id=1, score=7, total=10
+2025-04-21 16:05:31 - Quiz enregistré avec succès, quiz_id=55
+2025-04-23 13:23:41 - Quiz soumis: utilisateur_id=1, categorie_id=4, difficulte_id=1, score=5, total=8
+2025-04-23 13:23:41 - Quiz enregistré avec succès, quiz_id=56
